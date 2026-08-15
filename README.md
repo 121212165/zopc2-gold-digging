@@ -22,6 +22,12 @@ zopc2-gold-digging/
 │   ├── 03-Day1手册验证报告.md      # Day 1 手册真实性与可执行性验证报告
 │   ├── Day1-打卡模板.docx         # Day 1 打卡模板
 │   └── Day1-sheet.png             # Day 1 打卡截图
+├── checkin/                       # 前5天打卡材料包(打卡交付物)
+│   ├── Day1~5-打卡-*.md           # 每日打卡文档(08.10-08.15)
+│   ├── spec.md                    # SPEC v2.0(按 new-project skill 模板)
+│   ├── design-v1.md               # 设计稿第一版
+│   ├── tech-spec.md / tasks.md / plan.md / CHANGELOG.md
+│   └── sdd-suite-new-project-SKILL.md  # sdd-suite 方法论
 └── scripts/                       # 辅助脚本(可选)
 ```
 
